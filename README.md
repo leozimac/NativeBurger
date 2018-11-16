@@ -1,7 +1,5 @@
 # NativeBurger
 
-- - -
-
 This is a college project for the class IT special topics II - working with Python.<br>
 
 Development of a webapp for burger place customers to make orders.
